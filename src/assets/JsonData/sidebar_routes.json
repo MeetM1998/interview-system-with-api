@@ -1,0 +1,13 @@
+[
+    {
+        "display_name": "Interview Result",
+        "route": "/interview-result",
+        "icon": "bx bx-table"
+    },
+    {
+        "display_name": "Users",
+        "route": "/users-list",
+        "icon": "bx bxs-user"
+    }
+]
+   
